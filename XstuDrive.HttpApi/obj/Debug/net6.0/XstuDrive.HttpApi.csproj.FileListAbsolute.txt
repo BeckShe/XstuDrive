@@ -10,7 +10,6 @@ D:\XstuDrive\XstuDrive.HttpApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
 D:\XstuDrive\XstuDrive.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\XstuDrive\XstuDrive.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\XstuDrive\XstuDrive.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\XstuDrive\XstuDrive.HttpApi\obj\Debug\net6.0\XstuDrive.HttpApi.csproj.AssemblyReference.cache
 D:\XstuDrive\XstuDrive.HttpApi\obj\Debug\net6.0\XstuDrive.HttpApi.GeneratedMSBuildEditorConfig.editorconfig
 D:\XstuDrive\XstuDrive.HttpApi\obj\Debug\net6.0\XstuDrive.HttpApi.AssemblyInfoInputs.cache
 D:\XstuDrive\XstuDrive.HttpApi\obj\Debug\net6.0\XstuDrive.HttpApi.AssemblyInfo.cs
