@@ -1,0 +1,11 @@
+D:\XstuDrive\XstuDrive.Services.Contracts\bin\Debug\net6.0\XstuDrive.Services.Contracts.deps.json
+D:\XstuDrive\XstuDrive.Services.Contracts\bin\Debug\net6.0\XstuDrive.Services.Contracts.dll
+D:\XstuDrive\XstuDrive.Services.Contracts\bin\Debug\net6.0\ref\XstuDrive.Services.Contracts.dll
+D:\XstuDrive\XstuDrive.Services.Contracts\bin\Debug\net6.0\XstuDrive.Services.Contracts.pdb
+D:\XstuDrive\XstuDrive.Services.Contracts\obj\Debug\net6.0\XstuDrive.Services.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\XstuDrive\XstuDrive.Services.Contracts\obj\Debug\net6.0\XstuDrive.Services.Contracts.AssemblyInfoInputs.cache
+D:\XstuDrive\XstuDrive.Services.Contracts\obj\Debug\net6.0\XstuDrive.Services.Contracts.AssemblyInfo.cs
+D:\XstuDrive\XstuDrive.Services.Contracts\obj\Debug\net6.0\XstuDrive.Services.Contracts.csproj.CoreCompileInputs.cache
+D:\XstuDrive\XstuDrive.Services.Contracts\obj\Debug\net6.0\XstuDrive.Services.Contracts.dll
+D:\XstuDrive\XstuDrive.Services.Contracts\obj\Debug\net6.0\ref\XstuDrive.Services.Contracts.dll
+D:\XstuDrive\XstuDrive.Services.Contracts\obj\Debug\net6.0\XstuDrive.Services.Contracts.pdb

@@ -1,0 +1,12 @@
+D:\XstuDrive\XstuDrive.Domain\bin\Debug\net6.0\XstuDrive.Domain.deps.json
+D:\XstuDrive\XstuDrive.Domain\bin\Debug\net6.0\XstuDrive.Domain.dll
+D:\XstuDrive\XstuDrive.Domain\bin\Debug\net6.0\ref\XstuDrive.Domain.dll
+D:\XstuDrive\XstuDrive.Domain\bin\Debug\net6.0\XstuDrive.Domain.pdb
+D:\XstuDrive\XstuDrive.Domain\obj\Debug\net6.0\XstuDrive.Domain.csproj.AssemblyReference.cache
+D:\XstuDrive\XstuDrive.Domain\obj\Debug\net6.0\XstuDrive.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\XstuDrive\XstuDrive.Domain\obj\Debug\net6.0\XstuDrive.Domain.AssemblyInfoInputs.cache
+D:\XstuDrive\XstuDrive.Domain\obj\Debug\net6.0\XstuDrive.Domain.AssemblyInfo.cs
+D:\XstuDrive\XstuDrive.Domain\obj\Debug\net6.0\XstuDrive.Domain.csproj.CoreCompileInputs.cache
+D:\XstuDrive\XstuDrive.Domain\obj\Debug\net6.0\XstuDrive.Domain.dll
+D:\XstuDrive\XstuDrive.Domain\obj\Debug\net6.0\ref\XstuDrive.Domain.dll
+D:\XstuDrive\XstuDrive.Domain\obj\Debug\net6.0\XstuDrive.Domain.pdb
