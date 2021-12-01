@@ -1,0 +1,11 @@
+D:\XstuDrive\XstuDrive.Common\bin\Debug\net6.0\XstuDrive.Common.deps.json
+D:\XstuDrive\XstuDrive.Common\bin\Debug\net6.0\XstuDrive.Common.dll
+D:\XstuDrive\XstuDrive.Common\bin\Debug\net6.0\ref\XstuDrive.Common.dll
+D:\XstuDrive\XstuDrive.Common\bin\Debug\net6.0\XstuDrive.Common.pdb
+D:\XstuDrive\XstuDrive.Common\obj\Debug\net6.0\XstuDrive.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\XstuDrive\XstuDrive.Common\obj\Debug\net6.0\XstuDrive.Common.AssemblyInfoInputs.cache
+D:\XstuDrive\XstuDrive.Common\obj\Debug\net6.0\XstuDrive.Common.AssemblyInfo.cs
+D:\XstuDrive\XstuDrive.Common\obj\Debug\net6.0\XstuDrive.Common.csproj.CoreCompileInputs.cache
+D:\XstuDrive\XstuDrive.Common\obj\Debug\net6.0\XstuDrive.Common.dll
+D:\XstuDrive\XstuDrive.Common\obj\Debug\net6.0\ref\XstuDrive.Common.dll
+D:\XstuDrive\XstuDrive.Common\obj\Debug\net6.0\XstuDrive.Common.pdb

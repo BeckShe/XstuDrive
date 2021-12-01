@@ -1,0 +1,12 @@
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\bin\Debug\net6.0\XstuDrive.EntityFrameworkCore.deps.json
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\bin\Debug\net6.0\XstuDrive.EntityFrameworkCore.dll
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\bin\Debug\net6.0\ref\XstuDrive.EntityFrameworkCore.dll
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\bin\Debug\net6.0\XstuDrive.EntityFrameworkCore.pdb
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\obj\Debug\net6.0\XstuDrive.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\obj\Debug\net6.0\XstuDrive.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\obj\Debug\net6.0\XstuDrive.EntityFrameworkCore.AssemblyInfo.cs
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\obj\Debug\net6.0\XstuDrive.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\obj\Debug\net6.0\XstuDrive.EntityFrameworkCore.dll
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\obj\Debug\net6.0\ref\XstuDrive.EntityFrameworkCore.dll
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\obj\Debug\net6.0\XstuDrive.EntityFrameworkCore.pdb
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\obj\Debug\net6.0\XstuDrive.EntityFrameworkCore.csproj.AssemblyReference.cache
