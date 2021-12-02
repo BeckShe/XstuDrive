@@ -9,3 +9,4 @@ D:\XstuDrive\XstuDrive.EntityFrameworkCore\obj\Debug\net6.0\XstuDrive.EntityFram
 D:\XstuDrive\XstuDrive.EntityFrameworkCore\obj\Debug\net6.0\XstuDrive.EntityFrameworkCore.dll
 D:\XstuDrive\XstuDrive.EntityFrameworkCore\obj\Debug\net6.0\ref\XstuDrive.EntityFrameworkCore.dll
 D:\XstuDrive\XstuDrive.EntityFrameworkCore\obj\Debug\net6.0\XstuDrive.EntityFrameworkCore.pdb
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\obj\Debug\net6.0\XstuDrive.EntityFrameworkCore.csproj.AssemblyReference.cache

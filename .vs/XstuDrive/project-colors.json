@@ -5,7 +5,57 @@
       "ProjectGuid": "91f80fd1-64a0-4bea-9ce1-84b113eed93b",
       "DisplayName": "XstuDrive.HttpApi",
       "ColorIndex": 0
+    },
+    "7587dc29-6305-46cb-ae89-e10eb5fbc6b3": {
+      "ProjectGuid": "7587dc29-6305-46cb-ae89-e10eb5fbc6b3",
+      "DisplayName": "XstuDrive.EntityFrameworkCore",
+      "ColorIndex": 1
+    },
+    "b191a75d-3369-46ea-930f-20e7df6aceea": {
+      "ProjectGuid": "b191a75d-3369-46ea-930f-20e7df6aceea",
+      "DisplayName": "XstuDrive.Domain",
+      "ColorIndex": 2
+    },
+    "8a7d322e-85b3-49c0-9589-c52205eb568b": {
+      "ProjectGuid": "8a7d322e-85b3-49c0-9589-c52205eb568b",
+      "DisplayName": "XstuDrive.Common",
+      "ColorIndex": 3
+    },
+    "fad289b7-720f-48b8-8ae8-aee765b3d857": {
+      "ProjectGuid": "fad289b7-720f-48b8-8ae8-aee765b3d857",
+      "DisplayName": "XstuDrive.Service",
+      "ColorIndex": 4
+    },
+    "ad4b3c63-bc16-4c65-978e-9959409f0f39": {
+      "ProjectGuid": "ad4b3c63-bc16-4c65-978e-9959409f0f39",
+      "DisplayName": "XstuDrive.Contract",
+      "ColorIndex": 5
+    },
+    "5ff22717-23c4-469a-96d5-693547f68c67": {
+      "ProjectGuid": "5ff22717-23c4-469a-96d5-693547f68c67",
+      "DisplayName": "XstuDrive.Service.Contracts",
+      "ColorIndex": 6
+    },
+    "1e7dc4ca-338c-45b9-bd12-6db9aa53cf59": {
+      "ProjectGuid": "1e7dc4ca-338c-45b9-bd12-6db9aa53cf59",
+      "DisplayName": "XstuDrive.Tasks",
+      "ColorIndex": 7
+    },
+    "24f41264-4efb-40a2-9bdc-c72bc2a50e6e": {
+      "ProjectGuid": "24f41264-4efb-40a2-9bdc-c72bc2a50e6e",
+      "DisplayName": "XstuDrive.Services.Contracts",
+      "ColorIndex": 8
+    },
+    "90de3534-b1e0-4ea7-82b5-4f20d2071b08": {
+      "ProjectGuid": "90de3534-b1e0-4ea7-82b5-4f20d2071b08",
+      "DisplayName": "XstuDrive.Services",
+      "ColorIndex": 9
+    },
+    "3a8c95e2-670f-4842-9779-a3e86770fc8f": {
+      "ProjectGuid": "3a8c95e2-670f-4842-9779-a3e86770fc8f",
+      "DisplayName": "XstuDrive.FileServer",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 11
 }

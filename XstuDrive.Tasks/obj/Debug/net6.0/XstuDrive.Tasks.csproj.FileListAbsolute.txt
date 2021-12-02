@@ -9,3 +9,4 @@ D:\XstuDrive\XstuDrive.Tasks\obj\Debug\net6.0\XstuDrive.Tasks.csproj.CoreCompile
 D:\XstuDrive\XstuDrive.Tasks\obj\Debug\net6.0\XstuDrive.Tasks.dll
 D:\XstuDrive\XstuDrive.Tasks\obj\Debug\net6.0\ref\XstuDrive.Tasks.dll
 D:\XstuDrive\XstuDrive.Tasks\obj\Debug\net6.0\XstuDrive.Tasks.pdb
+D:\XstuDrive\XstuDrive.Tasks\obj\Debug\net6.0\XstuDrive.Tasks.csproj.AssemblyReference.cache

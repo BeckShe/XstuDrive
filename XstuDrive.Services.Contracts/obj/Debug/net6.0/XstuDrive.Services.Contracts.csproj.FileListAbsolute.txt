@@ -9,3 +9,4 @@ D:\XstuDrive\XstuDrive.Services.Contracts\obj\Debug\net6.0\XstuDrive.Services.Co
 D:\XstuDrive\XstuDrive.Services.Contracts\obj\Debug\net6.0\XstuDrive.Services.Contracts.dll
 D:\XstuDrive\XstuDrive.Services.Contracts\obj\Debug\net6.0\ref\XstuDrive.Services.Contracts.dll
 D:\XstuDrive\XstuDrive.Services.Contracts\obj\Debug\net6.0\XstuDrive.Services.Contracts.pdb
+D:\XstuDrive\XstuDrive.Services.Contracts\obj\Debug\net6.0\XstuDrive.Services.Contracts.csproj.AssemblyReference.cache

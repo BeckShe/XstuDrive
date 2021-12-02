@@ -24,3 +24,4 @@ D:\XstuDrive\XstuDrive.HttpApi\obj\Debug\net6.0\XstuDrive.HttpApi.dll
 D:\XstuDrive\XstuDrive.HttpApi\obj\Debug\net6.0\ref\XstuDrive.HttpApi.dll
 D:\XstuDrive\XstuDrive.HttpApi\obj\Debug\net6.0\XstuDrive.HttpApi.pdb
 D:\XstuDrive\XstuDrive.HttpApi\obj\Debug\net6.0\XstuDrive.HttpApi.genruntimeconfig.cache
+D:\XstuDrive\XstuDrive.HttpApi\obj\Debug\net6.0\XstuDrive.HttpApi.csproj.AssemblyReference.cache

@@ -9,3 +9,4 @@ D:\XstuDrive\XstuDrive.Common\obj\Debug\net6.0\XstuDrive.Common.csproj.CoreCompi
 D:\XstuDrive\XstuDrive.Common\obj\Debug\net6.0\XstuDrive.Common.dll
 D:\XstuDrive\XstuDrive.Common\obj\Debug\net6.0\ref\XstuDrive.Common.dll
 D:\XstuDrive\XstuDrive.Common\obj\Debug\net6.0\XstuDrive.Common.pdb
+D:\XstuDrive\XstuDrive.Common\obj\Debug\net6.0\XstuDrive.Common.csproj.AssemblyReference.cache

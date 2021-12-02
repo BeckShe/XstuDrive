@@ -9,3 +9,4 @@ D:\XstuDrive\XstuDrive.Services\obj\Debug\net6.0\XstuDrive.Services.csproj.CoreC
 D:\XstuDrive\XstuDrive.Services\obj\Debug\net6.0\XstuDrive.Services.dll
 D:\XstuDrive\XstuDrive.Services\obj\Debug\net6.0\ref\XstuDrive.Services.dll
 D:\XstuDrive\XstuDrive.Services\obj\Debug\net6.0\XstuDrive.Services.pdb
+D:\XstuDrive\XstuDrive.Services\obj\Debug\net6.0\XstuDrive.Services.csproj.AssemblyReference.cache
