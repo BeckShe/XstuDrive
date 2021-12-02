@@ -9,4 +9,12 @@ D:\XstuDrive\XstuDrive.EntityFrameworkCore\obj\Debug\net6.0\XstuDrive.EntityFram
 D:\XstuDrive\XstuDrive.EntityFrameworkCore\obj\Debug\net6.0\XstuDrive.EntityFrameworkCore.dll
 D:\XstuDrive\XstuDrive.EntityFrameworkCore\obj\Debug\net6.0\ref\XstuDrive.EntityFrameworkCore.dll
 D:\XstuDrive\XstuDrive.EntityFrameworkCore\obj\Debug\net6.0\XstuDrive.EntityFrameworkCore.pdb
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\bin\Debug\net6.0\XstuDrive.Core.dll
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\bin\Debug\net6.0\XstuDrive.Domain.dll
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\bin\Debug\net6.0\XstuDrive.Domain.pdb
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\bin\Debug\net6.0\XstuDrive.Core.pdb
 D:\XstuDrive\XstuDrive.EntityFrameworkCore\obj\Debug\net6.0\XstuDrive.EntityFrameworkCore.csproj.AssemblyReference.cache
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\obj\Debug\net6.0\XstuDrive.EntityFrameworkCore.csproj.CopyComplete
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\bin\Debug\net6.0\XstuDrive.EntityFrameworkCore.runtimeconfig.json
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\obj\Debug\net6.0\XstuDrive.EntityFrameworkCore.genruntimeconfig.cache
+D:\XstuDrive\XstuDrive.EntityFrameworkCore\bin\Debug\net6.0\appsettings.json

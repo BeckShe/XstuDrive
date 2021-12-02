@@ -7,7 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\XstuDrive.Core\XstuDrive.Core.csproj" />
+    <Folder Include="UnitOfWork\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XstuDrive.EntityFrameworkCore\XstuDrive.EntityFrameworkCore.csproj" />
   </ItemGroup>
 
 </Project>

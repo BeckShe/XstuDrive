@@ -4,14 +4,14 @@
     "D:\\XstuDrive\\XstuDrive.EntityFrameworkCore\\XstuDrive.EntityFrameworkCore.csproj": {}
   },
   "projects": {
-    "D:\\XstuDrive\\XstuDrive.EntityFrameworkCore\\XstuDrive.EntityFrameworkCore.csproj": {
+    "D:\\XstuDrive\\XstuDrive.Core\\XstuDrive.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\XstuDrive\\XstuDrive.EntityFrameworkCore\\XstuDrive.EntityFrameworkCore.csproj",
-        "projectName": "XstuDrive.EntityFrameworkCore",
-        "projectPath": "D:\\XstuDrive\\XstuDrive.EntityFrameworkCore\\XstuDrive.EntityFrameworkCore.csproj",
+        "projectUniqueName": "D:\\XstuDrive\\XstuDrive.Core\\XstuDrive.Core.csproj",
+        "projectName": "XstuDrive.Core",
+        "projectPath": "D:\\XstuDrive\\XstuDrive.Core\\XstuDrive.Core.csproj",
         "packagesPath": "C:\\Users\\安之眼\\.nuget\\packages\\",
-        "outputPath": "D:\\XstuDrive\\XstuDrive.EntityFrameworkCore\\obj\\",
+        "outputPath": "D:\\XstuDrive\\XstuDrive.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\安之眼\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,150 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\XstuDrive\\XstuDrive.Domain\\XstuDrive.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\XstuDrive\\XstuDrive.Domain\\XstuDrive.Domain.csproj",
+        "projectName": "XstuDrive.Domain",
+        "projectPath": "D:\\XstuDrive\\XstuDrive.Domain\\XstuDrive.Domain.csproj",
+        "packagesPath": "C:\\Users\\安之眼\\.nuget\\packages\\",
+        "outputPath": "D:\\XstuDrive\\XstuDrive.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\安之眼\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.1.53:8085/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\XstuDrive\\XstuDrive.Core\\XstuDrive.Core.csproj": {
+                "projectPath": "D:\\XstuDrive\\XstuDrive.Core\\XstuDrive.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\XstuDrive\\XstuDrive.EntityFrameworkCore\\XstuDrive.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\XstuDrive\\XstuDrive.EntityFrameworkCore\\XstuDrive.EntityFrameworkCore.csproj",
+        "projectName": "XstuDrive.EntityFrameworkCore",
+        "projectPath": "D:\\XstuDrive\\XstuDrive.EntityFrameworkCore\\XstuDrive.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\安之眼\\.nuget\\packages\\",
+        "outputPath": "D:\\XstuDrive\\XstuDrive.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\安之眼\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.1.53:8085/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\XstuDrive\\XstuDrive.Domain\\XstuDrive.Domain.csproj": {
+                "projectPath": "D:\\XstuDrive\\XstuDrive.Domain\\XstuDrive.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

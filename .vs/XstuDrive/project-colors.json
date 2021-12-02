@@ -55,7 +55,17 @@
       "ProjectGuid": "3a8c95e2-670f-4842-9779-a3e86770fc8f",
       "DisplayName": "XstuDrive.FileServer",
       "ColorIndex": 10
+    },
+    "61d6a9e5-c1bf-4fa4-97dc-2f5ef49b749c": {
+      "ProjectGuid": "61d6a9e5-c1bf-4fa4-97dc-2f5ef49b749c",
+      "DisplayName": "XstuDrive.Repository",
+      "ColorIndex": 11
+    },
+    "becab189-c4c3-4a82-9285-6325e5dfccef": {
+      "ProjectGuid": "becab189-c4c3-4a82-9285-6325e5dfccef",
+      "DisplayName": "XstuDrive.Core",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 13
 }

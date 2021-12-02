@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "XstuDrive.Domain/1.0.0": {
+        "dependencies": {
+          "XstuDrive.Core": "1.0.0"
+        },
         "runtime": {
           "XstuDrive.Domain.dll": {}
+        }
+      },
+      "XstuDrive.Core/1.0.0": {
+        "runtime": {
+          "XstuDrive.Core.dll": {}
         }
       }
     }
   },
   "libraries": {
     "XstuDrive.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "XstuDrive.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

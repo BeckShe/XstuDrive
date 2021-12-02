@@ -5,19 +5,28 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XstuDrive.HttpApi", "XstuDrive.HttpApi\XstuDrive.HttpApi.csproj", "{91F80FD1-64A0-4BEA-9CE1-84B113EED93B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XstuDrive.EntityFrameworkCore", "XstuDrive.EntityFrameworkCore\XstuDrive.EntityFrameworkCore.csproj", "{7587DC29-6305-46CB-AE89-E10EB5FBC6B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XstuDrive.EntityFrameworkCore", "XstuDrive.EntityFrameworkCore\XstuDrive.EntityFrameworkCore.csproj", "{7587DC29-6305-46CB-AE89-E10EB5FBC6B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XstuDrive.Domain", "XstuDrive.Domain\XstuDrive.Domain.csproj", "{B191A75D-3369-46EA-930F-20E7DF6ACEEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XstuDrive.Domain", "XstuDrive.Domain\XstuDrive.Domain.csproj", "{B191A75D-3369-46EA-930F-20E7DF6ACEEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XstuDrive.Common", "XstuDrive.Common\XstuDrive.Common.csproj", "{8A7D322E-85B3-49C0-9589-C52205EB568B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XstuDrive.Common", "XstuDrive.Common\XstuDrive.Common.csproj", "{8A7D322E-85B3-49C0-9589-C52205EB568B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XstuDrive.Tasks", "XstuDrive.Tasks\XstuDrive.Tasks.csproj", "{1E7DC4CA-338C-45B9-BD12-6DB9AA53CF59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XstuDrive.Tasks", "XstuDrive.Tasks\XstuDrive.Tasks.csproj", "{1E7DC4CA-338C-45B9-BD12-6DB9AA53CF59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XstuDrive.Services.Contracts", "XstuDrive.Services.Contracts\XstuDrive.Services.Contracts.csproj", "{24F41264-4EFB-40A2-9BDC-C72BC2A50E6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XstuDrive.Services.Contracts", "XstuDrive.Services.Contracts\XstuDrive.Services.Contracts.csproj", "{24F41264-4EFB-40A2-9BDC-C72BC2A50E6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XstuDrive.Services", "XstuDrive.Services\XstuDrive.Services.csproj", "{90DE3534-B1E0-4EA7-82B5-4F20D2071B08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XstuDrive.Services", "XstuDrive.Services\XstuDrive.Services.csproj", "{90DE3534-B1E0-4EA7-82B5-4F20D2071B08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XstuDrive.FileServer", "XstuDrive.FileServer\XstuDrive.FileServer.csproj", "{3A8C95E2-670F-4842-9779-A3E86770FC8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XstuDrive.FileServer", "XstuDrive.FileServer\XstuDrive.FileServer.csproj", "{3A8C95E2-670F-4842-9779-A3E86770FC8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XstuDrive.Repository", "XstuDrive.Repository\XstuDrive.Repository.csproj", "{61D6A9E5-C1BF-4FA4-97DC-2F5EF49B749C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XstuDrive.Core", "XstuDrive.Core\XstuDrive.Core.csproj", "{BECAB189-C4C3-4A82-9285-6325E5DFCCEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A8F1210D-BFDB-4B3F-8F4C-7C643FCE93D9}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +66,14 @@ Global
 		{3A8C95E2-670F-4842-9779-A3E86770FC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A8C95E2-670F-4842-9779-A3E86770FC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A8C95E2-670F-4842-9779-A3E86770FC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61D6A9E5-C1BF-4FA4-97DC-2F5EF49B749C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D6A9E5-C1BF-4FA4-97DC-2F5EF49B749C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D6A9E5-C1BF-4FA4-97DC-2F5EF49B749C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D6A9E5-C1BF-4FA4-97DC-2F5EF49B749C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BECAB189-C4C3-4A82-9285-6325E5DFCCEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECAB189-C4C3-4A82-9285-6325E5DFCCEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECAB189-C4C3-4A82-9285-6325E5DFCCEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECAB189-C4C3-4A82-9285-6325E5DFCCEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

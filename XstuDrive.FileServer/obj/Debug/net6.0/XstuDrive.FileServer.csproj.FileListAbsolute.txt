@@ -10,7 +10,6 @@ D:\XstuDrive\XstuDrive.FileServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
 D:\XstuDrive\XstuDrive.FileServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\XstuDrive\XstuDrive.FileServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\XstuDrive\XstuDrive.FileServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\XstuDrive\XstuDrive.FileServer\obj\Debug\net6.0\XstuDrive.FileServer.csproj.AssemblyReference.cache
 D:\XstuDrive\XstuDrive.FileServer\obj\Debug\net6.0\XstuDrive.FileServer.GeneratedMSBuildEditorConfig.editorconfig
 D:\XstuDrive\XstuDrive.FileServer\obj\Debug\net6.0\XstuDrive.FileServer.AssemblyInfoInputs.cache
 D:\XstuDrive\XstuDrive.FileServer\obj\Debug\net6.0\XstuDrive.FileServer.AssemblyInfo.cs
@@ -25,3 +24,4 @@ D:\XstuDrive\XstuDrive.FileServer\obj\Debug\net6.0\XstuDrive.FileServer.dll
 D:\XstuDrive\XstuDrive.FileServer\obj\Debug\net6.0\ref\XstuDrive.FileServer.dll
 D:\XstuDrive\XstuDrive.FileServer\obj\Debug\net6.0\XstuDrive.FileServer.pdb
 D:\XstuDrive\XstuDrive.FileServer\obj\Debug\net6.0\XstuDrive.FileServer.genruntimeconfig.cache
+D:\XstuDrive\XstuDrive.FileServer\obj\Debug\net6.0\XstuDrive.FileServer.csproj.AssemblyReference.cache

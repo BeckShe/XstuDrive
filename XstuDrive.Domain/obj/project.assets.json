@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "XstuDrive.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/XstuDrive.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/XstuDrive.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "XstuDrive.Core/1.0.0": {
+      "type": "project",
+      "path": "../XstuDrive.Core/XstuDrive.Core.csproj",
+      "msbuildProject": "../XstuDrive.Core/XstuDrive.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "XstuDrive.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\安之眼\\.nuget\\packages\\": {}
@@ -34,7 +53,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\XstuDrive\\XstuDrive.Core\\XstuDrive.Core.csproj": {
+              "projectPath": "D:\\XstuDrive\\XstuDrive.Core\\XstuDrive.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -9,3 +9,7 @@ D:\XstuDrive\XstuDrive.Domain\obj\Debug\net6.0\XstuDrive.Domain.csproj.CoreCompi
 D:\XstuDrive\XstuDrive.Domain\obj\Debug\net6.0\XstuDrive.Domain.dll
 D:\XstuDrive\XstuDrive.Domain\obj\Debug\net6.0\ref\XstuDrive.Domain.dll
 D:\XstuDrive\XstuDrive.Domain\obj\Debug\net6.0\XstuDrive.Domain.pdb
+D:\XstuDrive\XstuDrive.Domain\bin\Debug\net6.0\XstuDrive.Core.dll
+D:\XstuDrive\XstuDrive.Domain\bin\Debug\net6.0\XstuDrive.Core.pdb
+D:\XstuDrive\XstuDrive.Domain\obj\Debug\net6.0\XstuDrive.Domain.csproj.AssemblyReference.cache
+D:\XstuDrive\XstuDrive.Domain\obj\Debug\net6.0\XstuDrive.Domain.csproj.CopyComplete
